@@ -1,26 +1,22 @@
 ## Hi there 👋
 
-I’m Vukosi, a senior full-stack .NET developer based in South Africa.
+I’m Vukosi, a full-stack .NET developer from South Africa.
 
-I design and build systems that actually get used — enterprise apps, APIs, and mobile tools.
-If an idea feels worthwhile (or fun), there’s a good chance I’ll prototype it, refine it, and ship it.
+I build enterprise systems, mobile apps, and anything else I can imagine.
+If an idea hits, I’ll prototype it, polish it, and ship it.
 
-## What I work on
+### What I do
 
-* Retirement fund admin systems (claims, employer management, investment data)
-* Modernizing legacy .NET & AngularJS apps
-* Flutter apps (TikTok/YouTube shorts tools, games, utilities)
-* Clean, scalable APIs and multi-step workflows
+* Retirement fund systems & APIs
+* Modernizing legacy .NET & AngularJS
+* Flutter apps + fun side projects
 
-## My main tech stack
+### Tech stack
 
-* **Backend:** C#, .NET 8, MSSQL
-* **Frontend:** React, Angular, JavaScript, TypeScript
-* **Mobile:** Flutter (GoRouter + Riverpod)
-* **Tools:** Azure DevOps, Git, Jira, Postman
+C#, .NET 8, MSSQL, React, Angular, TypeScript, Flutter, Azure DevOps
 
-## Fun facts
+### Fun facts
 
-* Gym and anime are core personality traits
-* I build a *lot* of side projects
-* Currently grinding Clash Royale to hit ultimate champion (again)
+Gym + anime = me
+I build too many projects
+Clash Royale addict
